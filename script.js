@@ -62,7 +62,7 @@ document.addEventListener("click", (e) => {
 function fine() {
 
     piu.style.display = meno.style.display = "none";
-    output.innerHTML = `mitico, il tuo computer ha indovinato in ${tentativi}° tentativi!`; 
+    output.innerHTML = `mitico, il tuo computer ha indovinato il numero ${tentativo} in ${tentativi}° tentativi!`; 
     giusto.id = giusto.innerHTML = "ricarica";
 
 }
