@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
 :root {
     --color-ocean: hsl(240, 100%, 58%);
     --color-snow: snow;
 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Nanum Gothic', Arial, Helvetica, sans-serif;
     --grandezza-testo: 5vh;
 }
 
